@@ -1,10 +1,3 @@
-
-/*
- * 学生成绩管理系统 - 在线编译版本
- * 开发团队：xt & mt
- * 使用方法：复制全部代码到 https://www.onlinegdb.com/online_c_compiler 运行
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
